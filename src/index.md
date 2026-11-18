@@ -2,11 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mi primera página</title>
+<title>Bienvenido a mi sitio web</title>
 </head>
 <body>
-    <h1>Hola, Fran!</h1>
-    <p>Estoy aprendiendo programación.</p>
-    <button>Hacé clic acá</button>
+    <h1>Hola, soy Fran</h1>
+    <p>Estoy aprendiendo a crer paginas web.</p>
+    <p>Este es mi primer proyecto</p>
+    <button>Conoce mas</button>
 </body>
 </html>
